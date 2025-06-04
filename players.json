@@ -1,0 +1,11 @@
+{
+    "hg": {
+        "name": "hg",
+        "level": 32,
+        "max_hp": 440,
+        "strength": 36,
+        "dex": 36,
+        "int": 36,
+        "exp": 87
+    }
+}
