@@ -1,0 +1,5 @@
+skill_id,name,job,mp_cost,coef,element
+slash,베기,warrior,30,1.5,
+stab,찌르기,rogue,30,1.6,
+fireball,파이어볼,mage,50,2.0,
+heal,회복,mage,35,2.5,

@@ -1,0 +1,4 @@
+job_id,name,base_hp,base_mp,hp_lv_coef,mp_lv_coef,atk_str_coef,atk_dex_coef,atk_int_coef
+warrior,전사,120,40,15,5,2.0,1.0,0
+mage,마법사,80,80,10,10,0,0,2.5
+rogue,도적,100,60,12,6,1.5,2.2,1.0
